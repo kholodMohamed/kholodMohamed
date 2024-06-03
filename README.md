@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20profile;Always%20learning&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
-### Computer Engineer 
+
 ## About Me 🚀
 - 🏢 I'm a fresh graduate Computer Engineer.
 - 👨‍💻 As a computer engineering student, I'm constantly learning and exploring new technologies to improve my skills.
