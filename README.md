@@ -26,7 +26,8 @@
 
 ## Contact info 📫
 - Email: kholod2852001@gmail.com
-- LinkedIn: https://www.linkedin.com/in/kholod-mohamed-024109210/
- <img src="https://img.shields.io/badge/-Kholod%20Mohamed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+- LinkedIn: 
+ <a href="https://www.linkedin.com/in/kholod-mohamed-024109210/" target="_blank"> <img src="https://img.shields.io/badge/-Kholod%20Mohamed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+</a>
 
 
